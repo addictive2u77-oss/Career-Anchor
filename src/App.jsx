@@ -396,7 +396,7 @@ export default function CareerAnchorDiagnostic() {
         <div className="bg1"/><div className="bg2"/>
 
         <div className="hdr">
-          <span className="brand">Purple Lab</span>
+          <span className="brand">퍼포먼스플러스랩</span>
           <div className="dot"/>
           <span className="brand-sub">커리어 앵커 진단</span>
         </div>
